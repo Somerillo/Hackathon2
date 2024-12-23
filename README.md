@@ -6,7 +6,7 @@ Focusing on the target variable ‘price’ we find the baseline model from heal
 Finally, we cluster visually the dataset and obtain predictive models.
 
 ## Motivation
-Pass the second hackathon.
+To pass the second hackathon.
 
 ## Features
 Data Preprocessing: We employ pairplots, correlation matrix heatmap, feature engineering, data scaling, log transformation and anti-transformation, outliers removal by residues method.
